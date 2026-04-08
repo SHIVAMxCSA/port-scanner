@@ -3,7 +3,7 @@ A simple TCP port scanner built with Python | Educational purposes only
 [port-scanner.py](https://github.com/user-attachments/files/26518829/port-scanner.py)
 #!/usr/bin/env python3
 # =======================================
-# Simple Port Scanner by SHIVAMxCSA
+# Simple Port Scanner by PxCSA
 # For educational purposes only
 # =======================================
 
